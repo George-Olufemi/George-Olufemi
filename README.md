@@ -3,7 +3,7 @@
 <table>
 <tr>
   <td valign="center">
-    🎓 I am currently pursuing my **Bachelor's in Mechanical Engineering**.
+    🎓 I am currently pursuing my *Bachelor's in Mechanical Engineering*.
     
     🌱 I am currently learning **J** and also interested in **Web Development**.
     
