@@ -1,21 +1,18 @@
 # Hi, I'm George Olufemi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-<table>
-<tr>
-  <td valign="center">
-    🎓 I am currently pursuing my Bachelor's in Mechanical Engineering.<br />
-    🌱 I am currently learning JavaScript and also interested in Blockchain Development.<br />
-    🎯 My Goal is to Contribute to as many open source project as possible.<br />
-    ✨ I love to create different types of beautiful an Responsive Websites.
-    
-<td >
-<a href="https://app.daily.dev/GeorgeOlufemi"><img src="https://api.daily.dev/devcards/788ee7dbce2b44e582bb2c4cf27b5438.png?r=n42" width="400" alt="George Olufemi's Dev Card"/></a>
-  </td>
-</tr>
-</table>
+🎓 I am George Olufei, a Front End Web Developer (specializing in React.js and Next.js). I am also Pursuing my Bachelor in mechanical Engibeering Engineering and will graduate in mid-2023.
+
+👨‍💻 I enjoy contributing to Open Source Projects. I am really enthusiastic about learning new technology. In 2021, I learned Next.js, Progressive Web App (PWA), REST-API, Micro-Frontend Architecture and Blockchain development & DApps. I got started with Freelancing quite recently and made a name for myself.
+
+🎸 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from reading, sketching, and touch typing to some whacky ones like writing with my left hand.
+
+📚 I also love reading books on personal development & financial literacy. My favorite ones are The Secrets of the Millionare Mind, The Compound Effect by Darren Hardy in the genre of personal development and Rich Dad Poor Dad by Robert Kiyosaki.
+
+✈️ I love traveling too. 
+
+- 📫 You can reach me via E-mail: georgeoluolufemi@gmail.com
 
 
-- 📫 You can reach me via E-mail: georgeoluolufemi@gmail.coom
 
 
 
