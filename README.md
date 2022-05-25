@@ -2,7 +2,7 @@
 
 🎓 I am George Olufemi, a Front End Web Developer (specializing in React.js and Next.js). I am also Pursuing my Bachelor in Mechanical Engibeering Engineering and will graduate in mid-2023.
 
-👨‍💻 I enjoy contributing to Open Source Projects. I am really enthusiastic about learning new technology. In 2021, I learned Next.js, Progressive Web App (PWA), RESTful-API, and Blockchain development & DApps. I got started with Freelancing quite recently and made a name for myself.
+👨‍💻 I enjoy contributing to Open Source Projects. I am really enthusiastic about learning new technology. In 2021, I learned Next.js, RESTful-API, and Blockchain development & DApps. I got started with Freelancing quite recently and made a name for myself.
 
 🎸 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from reading, sketching, and touch typing to some whacky ones like writing with my left hand.
 
