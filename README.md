@@ -1,4 +1,7 @@
-# Hi, I'm George Olufemi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+# Hi, I'm George Olufemi 
+
+
+<!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="2px"> -->
 
 🎓 I am George Olufemi, a Front End Web Developer (specializing in React.js and Next.js). I am also Pursuing my Bachelor in Mechanical Engibeering Engineering and will graduate in mid-2023.
 
