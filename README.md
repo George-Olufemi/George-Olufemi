@@ -3,7 +3,7 @@
 
 <!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="2px"> -->
 
-🎓 I am George Olufemi, a Front End Web Developer (specializing in React.js and Next.js). I am also Pursuing my Bachelor in Mechanical Engibeering Engineering and will graduate in mid-2023.
+🎓 I am George Olufemi, a Front End Web Developer (specializing in React.js and Next.js). I am also Pursuing my Bachelor in Mechanical Engineering Engineering and will graduate in mid-2023.
 
 👨‍💻 I enjoy contributing to Open Source Projects. I am really enthusiastic about learning new technology. In 2021, I learned Next.js, RESTful-API, and Blockchain development & DApps. I got started with Freelancing quite recently and made a name for myself.
 
